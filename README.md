@@ -17,5 +17,5 @@ The dashboard shows that coffee and tea bring in most of the sales, making them 
 
 ## Project Image
 
-
+![coffee_sales_dashboard](https://github.com/user-attachments/assets/b27cddaf-6846-4644-8990-59a6d1f58337)
 
